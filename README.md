@@ -6,7 +6,7 @@ O Dashboard de Monitoramento foi meticulosamente elaborado para simplificar a an
 
 Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiNTg2MjNkNTctZTMwMS00ODZmLWIwYjItYzFmNGVkYmY5MTI1IiwidCI6IjI2ZDhjMDI4LWNkNWMtNGZkNi1iMzUzLTU2NWI1MDZmNmI1YyJ9)
 
-![Imagem Dashboard Status de Equipamentos](../PowerBi-Repository/Dashboard_Monitoramento/Dashboard_Monitoramento.png)
+![Imagem Dashboard Status de Equipamentos](https://github.com/JuliaAfSouza/PowerBi-Repository/blob/main/Dashboard_Monitoramento/Dashboard_Monitoramento.png?raw=true)
 
 #
 
@@ -16,7 +16,7 @@ Este dashboard foi criado para o monitoramento das vendas e lucros ao longo do t
 
 Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiOTcyOWI2NDEtMWEwZC00OWJiLTkxY2MtYmUxMjc0YjZjMmMxIiwidCI6IjI2ZDhjMDI4LWNkNWMtNGZkNi1iMzUzLTU2NWI1MDZmNmI1YyJ9)
 
-![Imagem Dashboard de Vendas](../PowerBi-Repository/Dashboard_Vendas/Dashboard_Vendas.png)
+![Imagem Dashboard de Vendas](https://github.com/JuliaAfSouza/PowerBi-Repository/blob/main/Dashboard_Vendas/Dashboard_Vendas.png?raw=true)
 
 #
 
@@ -26,7 +26,7 @@ O Dashboard Humanograma, oferece uma visão abrangente e detalhada de todos os f
 
 Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiOTRhZDI1MTQtMTJhMC00ZTMzLWEyN2ItYzlhMTJmNDFmOTI0IiwidCI6IjI2ZDhjMDI4LWNkNWMtNGZkNi1iMzUzLTU2NWI1MDZmNmI1YyJ9)
 
-![Imagem Dashboard Humanograma](../PowerBi-Repository/Dashboard_Humanograma/Dashboard_Humanograma.png)
+![Imagem Dashboard Humanograma](https://github.com/JuliaAfSouza/PowerBi-Repository/blob/main/Dashboard_Humanograma/Dashboard_Humanograma.png?raw=true)
 
 #
 
@@ -36,4 +36,4 @@ Dashboard de Operação Florestal fornece ao gerente uma visão abrangente e det
 
 Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiZTRkMGIyZmQtMGFhYy00NjY0LWEyNjAtMWVkZmJjNTNiMTliIiwidCI6IjI2ZDhjMDI4LWNkNWMtNGZkNi1iMzUzLTU2NWI1MDZmNmI1YyJ9)
 
-![Imagem Dashboard Operação](../PowerBi-Repository/Dashboard_Operação/Dashboard_%20Operação.png)
+![Imagem Dashboard Operação](https://github.com/JuliaAfSouza/PowerBi-Repository/blob/main/Dashboard_Opera%C3%A7%C3%A3o/Dashboard_%20Opera%C3%A7%C3%A3o.png?raw=true)
