@@ -26,7 +26,7 @@ Este dashboard oferece uma visão detalhada e abrangente das vendas da empresa, 
 
 Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiMzE5MmQ2NzEtYWRhYi00YWMyLTljNjItZjNiNGNmMjFhYTIwIiwidCI6IjI2ZDhjMDI4LWNkNWMtNGZkNi1iMzUzLTU2NWI1MDZmNmI1YyJ9)
 
-![Imagem Dashboard Comercial](../PowerBi-Repository/Dashboard_Desempenho_Comercial/Dashboard_Comercial.jpg)
+![Imagem Dashboard Comercial](https://github.com/JuliaAfSouza/PowerBi-Repository/blob/main/Dashboard_Desempenho_Comercial/Dashboard_Comercial.jpg?raw=true)
 
 #
 
