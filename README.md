@@ -20,6 +20,16 @@ Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoi
 
 #
 
+### Dashboard Comercial
+
+Este dashboard oferece uma visão detalhada e abrangente das vendas da empresa, permitindo o acompanhamento do total de vendas, variação percentual ao longo dos meses e atingimento de metas por produto. Com análises por estado, desempenho dos vendedores e comparações entre diferentes categorias de seguros, o dashboard facilita a identificação de tendências e oportunidades de melhoria. Essa solução proporciona insights estratégicos para otimizar a gestão comercial e aprimorar os resultados da empresa.
+
+Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiMzE5MmQ2NzEtYWRhYi00YWMyLTljNjItZjNiNGNmMjFhYTIwIiwidCI6IjI2ZDhjMDI4LWNkNWMtNGZkNi1iMzUzLTU2NWI1MDZmNmI1YyJ9)
+
+![Imagem Dashboard Comercial](../PowerBi-Repository/Dashboard_Desempenho_Comercial/Dashboard_Comercial.jpg)
+
+#
+
 ### Dashboard Humanograma
 
 O Dashboard Humanograma, oferece uma visão abrangente e detalhada de todos os funcionários da empresa, bem como de um estrutura organizacional completa. Este dashboard é uma solução completa que fornece informações essenciais sobre cada membro da empresa, incluindo detalhes sobre sua função, departamento, localização geográfica e informações de contato. É possível ter uma visão geral de nossa força de trabalho em todos os estados do Brasil, facilitando a gestão e tomada de decisões estratégicas. 
