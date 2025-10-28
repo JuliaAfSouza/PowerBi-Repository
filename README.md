@@ -1,5 +1,15 @@
 # Portfólio Power BI 📊
 
+### Dashboard Sales Performance
+
+O Dashboard Sales Performance foi desenvolvido para analisar o desempenho de vendas das marcas A, B e C nos mercados do Brasil e da Argentina. Ele permite acompanhar a evolução semanal e mensal das unidades vendidas e do preço médio, além de comparar o gap de preços entre as marcas e identificar tendências de crescimento ou queda. Sua interface foi construída com foco em clareza e interatividade, possibilitando análises rápidas e insights estratégicos sobre o comportamento das vendas.
+
+Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiMzhmMDY0NzQtZmI0ZS00NmU4LTlkNDMtODFmNTUxOWJhYjQ2IiwidCI6IjI2ZDhjMDI4LWNkNWMtNGZkNi1iMzUzLTU2NWI1MDZmNmI1YyJ9)
+
+![Imagem Dashboard Sales Performance](https://github.com/JuliaAfSouza/PowerBi-Repository/blob/main/Dashboard_Sales_Performance/ashboard_Sales_Performance.png?raw=true)
+
+#
+
 ### Dashboard de Monitoramento
 
 O Dashboard de Monitoramento foi meticulosamente elaborado para simplificar a análise e auxiliar a equipe de monitoramento, onde é possível encontrar informações de todos os equipamentos, chips e pacotes disponíveis dos nossos clientes. Este dashboard oferece uma visão unificada e acessível dos dados, permitindo uma compreensão holística do estado de cada componente. Sua interface intuitiva possibilita uma identificação rápida e eficiente de problemas ou anomalias, fornecendo alertas claros sempre que necessário. 
