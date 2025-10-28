@@ -6,7 +6,7 @@ O Dashboard Sales Performance foi desenvolvido para analisar o desempenho de ven
 
 Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiMzhmMDY0NzQtZmI0ZS00NmU4LTlkNDMtODFmNTUxOWJhYjQ2IiwidCI6IjI2ZDhjMDI4LWNkNWMtNGZkNi1iMzUzLTU2NWI1MDZmNmI1YyJ9)
 
-![Imagem Dashboard Sales Performance](https://github.com/JuliaAfSouza/PowerBi-Repository/blob/main/Dashboard_Sales_Performance/ashboard_Sales_Performance.png?raw=true)
+![Imagem Dashboard Sales Performance](https://github.com/JuliaAfSouza/PowerBi-Repository/blob/main/Dashboard_Sales_Performance/Dashboard_Sales_Performance.png)
 
 #
 
